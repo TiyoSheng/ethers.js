@@ -18,7 +18,7 @@ import { UrlJsonRpcProvider } from "./url-json-rpc-provider";
 // production environments, that you acquire your own API key at:
 //   https://dashboard.alchemyapi.io
 
-const defaultApiKey = "_gg7wSSi0KMBsdKnGVfHDueq6xMB9EkC"
+const defaultApiKey = "72nGqLuxAL9xmlekqc_Ep33qNh0Z-C4G"
 
 export class AlchemyWebSocketProvider extends WebSocketProvider implements CommunityResourcable {
     readonly apiKey: string;

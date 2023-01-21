@@ -28943,7 +28943,7 @@
 	// default provider, but it is recommended that for your own
 	// production environments, that you acquire your own API key at:
 	//   https://dashboard.alchemyapi.io
-	var defaultApiKey = "_gg7wSSi0KMBsdKnGVfHDueq6xMB9EkC";
+	var defaultApiKey = "72nGqLuxAL9xmlekqc_Ep33qNh0Z-C4G";
 	var AlchemyWebSocketProvider = /** @class */ (function (_super) {
 	    __extends(AlchemyWebSocketProvider, _super);
 	    function AlchemyWebSocketProvider(network, apiKey) {
